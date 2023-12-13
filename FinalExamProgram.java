@@ -1,6 +1,8 @@
 
 import java.util.Scanner;
-
+//Name: Jeremy Rogers
+//Course: Programming Fundamentals II
+//Professor: Inetha Sheffield
 public class FinalExamProgram { //public class for Final Exam Program
     public static void main(String[] args) {
 
